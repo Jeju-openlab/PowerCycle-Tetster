@@ -1,18 +1,24 @@
 # PowerCycle-Tester
 
-전원 On/Off 테스트 보드 펌웨어
+전원 On/Off 테스트 보드 펌웨어 및 PC 제어 프로그램
 
 ## 개요
 
-PowerCycle-Tester는 제품의 전원 사이클 테스트를 자동화하는 테스트 보드용 펌웨어입니다.
+PowerCycle-Tester는 제품의 전원 사이클 테스트를 자동화하는 테스트 보드용 펌웨어와 PC 제어 프로그램입니다.
 
 ## 다운로드
 
-최신 펌웨어는 [Releases](https://github.com/Jeju-openlab/PowerCycle-Tetster/releases) 페이지에서 다운로드하세요.
+### Firmware (STM32)
 
-| 버전 | 파일 | 날짜 |
-|------|------|------|
-| v1.0.0 | [on_off_test_board.bin](firmware/v1.0.0/on_off_test_board.bin) | 2025-01-19 |
+| 버전 | 다운로드 | 날짜 |
+|------|----------|------|
+| v1.0.0 | [firmware.bin](firmware/v1.0.0/firmware.bin) | 2025-01-19 |
+
+### PC App (Windows)
+
+| 버전 | 다운로드 | 날짜 |
+|------|----------|------|
+| v1.0.0 | [PowerCycleTester.exe](app/windows/v1.0.0/PowerCycleTester.exe) | 2025-01-19 |
 
 ## 펌웨어 업로드 방법
 
