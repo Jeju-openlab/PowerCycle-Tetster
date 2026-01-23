@@ -1,0 +1,8 @@
+# Scripts
+git_push.bat
+
+# Archives
+*.zip
+
+# Config (user-specific)
+app/windows/*/config.json
